@@ -1,4 +1,4 @@
 # badapp
 Intentionally vulnerable webapp meant to be run on a LAMP stack
 
-change!
+Contributors: Andrew Turnsek, Adam Greenhill
